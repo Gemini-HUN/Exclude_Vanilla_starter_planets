@@ -1,2 +1,2 @@
 # Exclude_Vanilla_starter_planets
-Exclude vanilla starter planets from galaxy for starter planet mods
+Exclude Vanilla starter planets for make appear starter planet mods more easy
