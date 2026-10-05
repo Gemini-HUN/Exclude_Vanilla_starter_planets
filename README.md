@@ -1,5 +1,5 @@
 # Exclude_Vanilla_starter_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Exclude_Vanilla_starter_planets/latest?style=flat-square&color=d81b60&logo=github)
 Exclude 162 vanilla starter planet possibility for make appear starter planet mods more easily
 
 ## How to install mods?
